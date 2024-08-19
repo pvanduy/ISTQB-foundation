@@ -24,11 +24,11 @@ The ISTQB Foundation Level covers the fundamentals of software testing, includin
 ## Study Plan
 To prepare for the ISTQB Foundation exam, follow this study plan:
 
-1. $\textcolor{lightgreen}{Understand\ the\ syllabus}$: Review the ISTQB Foundation Level syllabus to get an overview of the topics covered in the exam.
-2. $\textcolor{lightgreen}{Study\ each\ topic}$: Focus on each topic individually, starting with the basics and moving on to more advanced concepts.
-3. $\textcolor{lightgreen}{Take\ notes}$: Create concise notes for each topic to reinforce your understanding.
-4. $\textcolor{lightgreen}{Practice\ questions}$: Test your knowledge with practice questions after studying each topic.
-5. $\textcolor{lightgreen}{Review\ and\ revise}$: Regularly review your notes and revise the topics as needed.
+1. $\textcolor{lightgreen}{Understand\ the\ syllabus:}$ Review the ISTQB Foundation Level syllabus to get an overview of the topics covered in the exam.
+2. $\textcolor{lightgreen}{Study\ each\ topic:}$ Focus on each topic individually, starting with the basics and moving on to more advanced concepts.
+3. $\textcolor{lightgreen}{Take\ notes:}$ Create concise notes for each topic to reinforce your understanding.
+4. $\textcolor{lightgreen}{Practice\ questions:}$ Test your knowledge with practice questions after studying each topic.
+5. $\textcolor{lightgreen}{Review\ and\ revise:}$ Regularly review your notes and revise the topics as needed.
 
 ## Resources
 Here are some useful resources to help you study for the ISTQB Foundation Level exam:
