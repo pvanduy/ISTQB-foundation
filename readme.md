@@ -14,12 +14,12 @@ The ISTQB Foundation Level certification is the first step in the ISTQB Certifie
 
 ## What is ISTQB Foundation?
 The ISTQB Foundation Level covers the fundamentals of software testing, including:
-- [Testing principles](testing-principles): Basic concepts and principles that guide testing activities.
-- [Testing throughout the software life cycle](testing-throughout-the-software-life-cycle): Understanding how testing fits into different phases of the software development life cycle.
-- [Static techniques](static-techniques): Techniques for testing software without executing code.
-- [Test design techniques](test-design-techniques): Methods for designing test cases based on requirements and specifications.
-- [Test management](test-management): Concepts related to managing and planning testing activities.
-- [Tool support for testing](tool-support-for-testing): An overview of tools that can be used to support testing activities.
+- [Testing principles](#testing-principles): Basic concepts and principles that guide testing activities.
+- [Testing throughout the software life cycle](#testing-throughout-the-software-life-cycle): Understanding how testing fits into different phases of the software development life cycle.
+- [Static techniques](#static-techniques): Techniques for testing software without executing code.
+- [Test design techniques](#test-design-techniques): Methods for designing test cases based on requirements and specifications.
+- [Test management](#test-management): Concepts related to managing and planning testing activities.
+- [Tool support for testing](#tool-support-for-testing): An overview of tools that can be used to support testing activities.
 
 ## Study Plan
 To prepare for the ISTQB Foundation exam, follow this study plan:
@@ -51,7 +51,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Testing principles
+### $\textcolor{lightgreen}{Testing\ principles}$
 
 1. Testing Shows the Presence of Defects: Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
 
