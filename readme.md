@@ -1,5 +1,4 @@
 # ISTQB Foundation Study Guide
-
 This repository is dedicated to learning and preparing for the ISTQB (International Software Testing Qualifications Board) Foundation Level exam. It contains study materials, notes, and practice questions to help you gain a solid understanding of software testing principles.
 
 ## Table of Contents
@@ -15,12 +14,12 @@ The ISTQB Foundation Level certification is the first step in the ISTQB Certifie
 
 ## What is ISTQB Foundation?
 The ISTQB Foundation Level covers the fundamentals of software testing, including:
-- **Testing principles**: Basic concepts and principles that guide testing activities.
-- **Testing throughout the software life cycle**: Understanding how testing fits into different phases of the software development life cycle.
-- **Static techniques**: Techniques for testing software without executing code.
-- **Test design techniques**: Methods for designing test cases based on requirements and specifications.
-- **Test management**: Concepts related to managing and planning testing activities.
-- **Tool support for testing**: An overview of tools that can be used to support testing activities.
+- [Testing principles](testing-principles): Basic concepts and principles that guide testing activities.
+- [Testing throughout the software life cycle](testing-throughout-the-software-life-cycle): Understanding how testing fits into different phases of the software development life cycle.
+- [Static techniques](static-techniques): Techniques for testing software without executing code.
+- [Test design techniques](test-design-techniques): Methods for designing test cases based on requirements and specifications.
+- [Test management](test-management): Concepts related to managing and planning testing activities.
+- [Tool support for testing](tool-support-for-testing): An overview of tools that can be used to support testing activities.
 
 ## Study Plan
 To prepare for the ISTQB Foundation exam, follow this study plan:
@@ -36,17 +35,9 @@ Here are some useful resources to help you study for the ISTQB Foundation Level 
 
 - [ISTQB Official Website](https://www.istqb.org/)
 - [ISTQB Foundation Level Syllabus](https://www.istqb.org/certification-path-root/foundation-level.html)
-- [Recommended Books](#recommended-books)
-- [Practice Exams](#practice-exams)
+- [Practice Exams](https://istqb.patshala.com/tests/)
 
-### Recommended Books
-- **Foundations of Software Testing: ISTQB Certification** by Dorothy Graham, Rex Black, and Erik van Veenendaal
-- **Software Testing: An ISTQB-BCS Certified Tester Foundation Guide** by Brian Hambling and Peter Morgan
-
-### Practice Exams
-- [ISTQB Sample Exams](https://istqb.patshala.com/tests/)
-
-### Practice Questions
+## Practice Questions
 This section includes practice questions to help you prepare for the ISTQB Foundation exam. These questions are based on the syllabus and cover various topics.
 
 1. **Question 1**: What is the main objective of software testing?
@@ -57,8 +48,10 @@ This section includes practice questions to help you prepare for the ISTQB Found
 
 (Continue adding more questions...)
 
-#### Testing principles
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### $${\color{lightgreen}Testing \space principles}$$
 1. Testing Shows the Presence of Defects: Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
 
 2. Exhaustive Testing is Impossible: It's impractical to test all possible inputs and conditions. Risk-based testing and prioritization help in focusing on the most critical areas.
@@ -73,8 +66,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
 
 7. Absence-of-Errors Fallacy: Just because a system is free of defects does not mean it is useful or meets the user’s needs. Testing should ensure that the software fulfills its intended purpose.
 
-#### Testing throughout the software life cycle
-
+### $${\color{lightgreen}Testing \space throughout \space the \space software \space life \space cycle }$$
 1. Testing Activities in Different Development Models:
    - Sequential Development Models (e.g., Waterfall, V-Model):
       - Testing is structured in phases that align with development stages. For example, testing activities such as test planning and design begin in the early stages, even as coding is ongoing, and test execution happens after the development phase.
@@ -127,7 +119,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  Continuous Testing:
    -  Integrated with CI/CD pipelines, continuous testing involves automated testing at every stage of development to provide immediate feedback and support rapid releases.
 
-#### Static techniques
+### $${\color{lightgreen}Static \space techniques}$$
 1. Static Testing:
    -  Static testing is a software testing technique that involves examining and analyzing software work products without executing the code. It aims to find errors, ambiguities, inconsistencies, and omissions early in the development process, making it a crucial component of quality assurance.
 
@@ -162,7 +154,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
       -  Static Testing: Detects defects such as coding standard violations, logical errors, missing requirements, and documentation issues.
       -  Dynamic Testing: Identifies runtime errors, performance issues, functional failures, and unexpected behaviors during software execution.
 
-#### Test design techniques
+### $${\color{lightgreen}Test \space design \space techniques}$$
 1. Test Techniques Overview:
    -  Test design techniques are broadly categorized into three main types:
       -  Black-box Techniques: Focus on testing the external behavior of the software without knowledge of its internal structure.
@@ -239,8 +231,7 @@ Collaboration-based test approaches involve close cooperation between various st
          -  Quality Assurance: By defining tests upfront, ATDD helps prevent defects and ensures that the product meets the required quality standards.
          -  Transparency: Provides transparency and a shared understanding of what is being built, which helps in making informed decisions throughout the development process.
 
-#### Test management
-
+### $${\color{lightgreen}Test \space management }$$
 1. Test Organization: Discusses roles and responsibilities in a test team, including the Test Manager and Tester roles. It covers how these roles contribute to planning, executing, and evaluating test activities.
 
 2. Test Planning and Estimation: Involves creating a test plan that outlines the scope, approach, resources, and schedule for testing activities. Estimation techniques, such as expert-based estimation and metrics-based estimation, are used to predict the effort and resources required.
@@ -253,7 +244,7 @@ Collaboration-based test approaches involve close cooperation between various st
 
 6. Incident Management: Covers the process of recording, analyzing, and tracking defects or issues discovered during testing. Incident management ensures that all issues are properly documented and addressed.
 
-#### Tool support for testing
+### $${\color{lightgreen}Tool \space support \space for \space testing }$$
 Test tools are software applications used to support various testing activities. They can be categorized into several types:
 
 1. Test Management Tools: Manage test cases, test execution, and defect tracking. Examples include:
