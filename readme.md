@@ -51,8 +51,8 @@ This section includes practice questions to help you prepare for the ISTQB Found
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### $\textcolor{lightgreen}{Testing\ principles}$
-
+> [!IMPORTANT]
+> ### TESTING PRINCIPLES
 1. Testing Shows the Presence of Defects: Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
 
 2. Exhaustive Testing is Impossible: It's impractical to test all possible inputs and conditions. Risk-based testing and prioritization help in focusing on the most critical areas.
@@ -68,7 +68,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
 7. Absence-of-Errors Fallacy: Just because a system is free of defects does not mean it is useful or meets the user’s needs. Testing should ensure that the software fulfills its intended purpose.
 
 > [!IMPORTANT]
-> ### Testing throughout the software life cycle
+> ### TESTING THROUGHOUT THE SOFTWARE LIFE CYCLE
 1. Testing Activities in Different Development Models:
    - Sequential Development Models (e.g., Waterfall, V-Model):
       - Testing is structured in phases that align with development stages. For example, testing activities such as test planning and design begin in the early stages, even as coding is ongoing, and test execution happens after the development phase.
@@ -122,7 +122,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  Integrated with CI/CD pipelines, continuous testing involves automated testing at every stage of development to provide immediate feedback and support rapid releases.
 
 > [!IMPORTANT]
-> ### Static techniques
+> ### STATIC TECHNIQUES
 1. Static Testing:
    -  Static testing is a software testing technique that involves examining and analyzing software work products without executing the code. It aims to find errors, ambiguities, inconsistencies, and omissions early in the development process, making it a crucial component of quality assurance.
 
@@ -158,7 +158,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
       -  Dynamic Testing: Identifies runtime errors, performance issues, functional failures, and unexpected behaviors during software execution.
 
 > [!IMPORTANT]
-> ### Test design techniques
+> ### TEST DESIGN TECHNIQUES
 1. Test Techniques Overview:
    -  Test design techniques are broadly categorized into three main types:
       -  Black-box Techniques: Focus on testing the external behavior of the software without knowledge of its internal structure.
@@ -236,7 +236,7 @@ Collaboration-based test approaches involve close cooperation between various st
          -  Transparency: Provides transparency and a shared understanding of what is being built, which helps in making informed decisions throughout the development process.
 
 > [!IMPORTANT]
-> ### Test management
+> ### TEST MANAGEMENT
 1. Test Organization: Discusses roles and responsibilities in a test team, including the Test Manager and Tester roles. It covers how these roles contribute to planning, executing, and evaluating test activities.
 
 2. Test Planning and Estimation: Involves creating a test plan that outlines the scope, approach, resources, and schedule for testing activities. Estimation techniques, such as expert-based estimation and metrics-based estimation, are used to predict the effort and resources required.
@@ -250,7 +250,7 @@ Collaboration-based test approaches involve close cooperation between various st
 6. Incident Management: Covers the process of recording, analyzing, and tracking defects or issues discovered during testing. Incident management ensures that all issues are properly documented and addressed.
 
 > [!IMPORTANT]
-> ### Tool support for testing
+> ### TOOL SUPPORT FOR TESTING
 -   Test tools are software applications used to support various testing activities. They can be categorized into several types:
    1. Test Management Tools: Manage test cases, test execution, and defect tracking. Examples include:
       -  JIRA: Used for issue tracking and test management.
