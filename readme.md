@@ -51,7 +51,7 @@ This section includes practice questions to help you prepare for the ISTQB Found
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## $\textcolor{lightgreen}{Testing\ principles}$
+### Testing principles
 
 1. Testing Shows the Presence of Defects: Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
 
