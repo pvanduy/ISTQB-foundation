@@ -90,6 +90,9 @@ This section includes practice questions to help you prepare for the ISTQB Found
       -  Ensures that the software functions as expected based on the requirements. It includes all levels of testing (unit, integration, system, acceptance) where functionality is evaluated.
    -  Non-Functional Testing:
       -  Evaluates aspects such as performance, usability, security, and reliability. It ensures the software meets non-functional requirements, which are critical for user experience and system performance.
+        
+![image](https://github.com/user-attachments/assets/7d598a8d-2430-4bc0-8436-f65b7e28d508)
+
 
 4. Testing in Maintenance:
    -  Regression Testing:
@@ -127,19 +130,19 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  Static testing is a software testing technique that involves examining and analyzing software work products without executing the code. It aims to find errors, ambiguities, inconsistencies, and omissions early in the development process, making it a crucial component of quality assurance.
 
 2. Static Testing Basics:
-   -  Techniques: Static testing primarily includes reviews (such as inspections, walkthroughs, and technical reviews) and static analysis. These techniques are applied to various documents and code artifacts to identify defects early.
-   -  Process: The static testing process typically involves planning, preparation, review meetings, defect recording, and follow-up. The review process is systematic, often guided by checklists to ensure thorough coverage.
+   -  **Techniques**: Static testing primarily includes reviews (such as inspections, walkthroughs, and technical reviews) and static analysis. These techniques are applied to various documents and code artifacts to identify defects early.
+   -  **Process**: The static testing process typically involves planning, preparation, review meetings, defect recording, and follow-up. The review process is systematic, often guided by checklists to ensure thorough coverage.
 3. Work Products Examinable by Static Testing:
-   -  Requirements Specifications: Static testing can identify ambiguities, contradictions, and omissions in requirements documents.
-   -  Design Documents: Reviews of design documents help ensure that the design meets the requirements and adheres to best practices.
-   -  Source Code: Static analysis tools can be used to examine source code for coding standards compliance, security vulnerabilities, and potential bugs.
-   -  Test Plans and Test Cases: Reviewing test plans and test cases ensures that they are complete, accurate, and aligned with the requirements and design.
-   -  User Manuals and Other Documentation: Static testing can also be applied to user manuals and other documentation to check for accuracy, clarity, and consistency.
+   -  $\textcolor{green}{Requirements\ Specifications\ :}$ Static testing can identify ambiguities, contradictions, and omissions in requirements documents.
+   -  **Design Documents**: Reviews of design documents help ensure that the design meets the requirements and adheres to best practices.
+   -  **Source Code**: Static analysis tools can be used to examine source code for coding standards compliance, security vulnerabilities, and potential bugs.
+   -  **Test Plans and Test Cases**: Reviewing test plans and test cases ensures that they are complete, accurate, and aligned with the requirements and design.
+   -  **User Manuals and Other Documentation**: Static testing can also be applied to user manuals and other documentation to check for accuracy, clarity, and consistency.
 4. Value of Static Testing:
-   -  Early Defect Detection: By identifying defects before code execution, static testing helps prevent defects from propagating into later stages, where they are more costly to fix.
-   -  Cost-Effective: Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
-   -  Improved Quality: Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
-   -  Enhanced Collaboration: Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
+   -  **Early Defect Detection**: By identifying defects before code execution, static testing helps prevent defects from propagating into later stages, where they are more costly to fix.
+   -  **Cost-Effective**: Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
+   -  **Improved Quality**: Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
+   -  **Enhanced Collaboration**: Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
 5. Differences between Static Testing and Dynamic Testing:
    -  Execution:
       -  Static Testing: Involves examining the work products (like code, documents) without executing the software.
