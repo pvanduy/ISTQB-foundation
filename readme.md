@@ -143,22 +143,16 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  $\textcolor{green}{Cost-Effective\ :}$ Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
    -  $\textcolor{green}{Improved\ Quality\ :}$ Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
    -  $\textcolor{green}{Enhanced\ Collaboration\ :}$ Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
-5. Differences between Static Testing and Dynamic Testing:
-   -  Execution:
-      -  Static Testing: Involves examining the work products (like code, documents) without executing the software.
-      -  Dynamic Testing: Involves executing the software and observing its behavior during runtime to find defects.
-   -  Focus:
-      -  Static Testing: Focuses on detecting defects in work products, such as requirements, design, and code, before the product is run.
-      -  Dynamic Testing: Focuses on finding defects related to functional and non-functional behavior of the software during execution.
-   -  Timing:
-      -  Static Testing: Typically performed early in the development process, often before any code is executed.
-      -  Dynamic Testing: Occurs after the code is developed, often during or after the implementation phase.
-   -  Tools:
-      -  Static Testing: Relies on tools for static analysis (e.g., code analyzers, linters) and manual review processes.
-      -  Dynamic Testing: Utilizes testing frameworks, test automation tools, and environments for executing the software under test.
-   -  Defect Types:
-      -  Static Testing: Detects defects such as coding standard violations, logical errors, missing requirements, and documentation issues.
-      -  Dynamic Testing: Identifies runtime errors, performance issues, functional failures, and unexpected behaviors during software execution.
+5. Differences between $\textcolor{green}{Static\ Testing}$ and $\textcolor{green}{Dynamic\ Testing}$ :
+   
+|| Static Testing    | Dynamic Testing |
+|:---:|:---:|:---:|
+| Execution | Involves examining the work products (like code, documents) without executing the software. | Involves executing the software and observing its behavior during runtime to find defects. |
+| Focus | Focuses on detecting defects in work products, such as requirements, design, and code, before the product is run. | Focuses on finding defects related to functional and non-functional behavior of the software during execution. |
+| Timing | Typically performed early in the development process, often before any code is executed. | Occurs after the code is developed, often during or after the implementation phase. |
+| Tools | Relies on tools for static analysis (e.g., code analyzers, linters) and manual review processes. | Utilizes testing frameworks, test automation tools, and environments for executing the software under test. |
+| Defect Types | Detects defects such as coding standard violations, logical errors, missing requirements, and documentation issues. | Identifies runtime errors, performance issues, functional failures, and unexpected behaviors during software execution. |
+
 
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
