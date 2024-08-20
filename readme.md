@@ -238,17 +238,16 @@ Collaboration-based test approaches involve close cooperation between various st
 
 > [!IMPORTANT]
 > ### TEST MANAGEMENT
-1. $\textcolor{green}{Test\ Organization\ :}$ Discusses roles and responsibilities in a test team, including the Test Manager and Tester roles. It covers how these roles contribute to planning, executing, and evaluating test activities.
+1. $\textcolor{green}{Test\ Planning\ :}$
 
-2. $\textcolor{green}{Test\ Planning\ and\ Estimation\ :}$ Involves creating a test plan that outlines the scope, approach, resources, and schedule for testing activities. Estimation techniques, such as expert-based estimation and metrics-based estimation, are used to predict the effort and resources required.
+2. $\textcolor{green}{Risk\ Management\ :}$ 
 
-3. $\textcolor{green}{Test\ Monitoring\ and\ Control\ :}$ Focuses on tracking the progress of test activities against the test plan. Key metrics and reporting methods are used to monitor progress, while control actions are taken if the project deviates from the plan.
+3. $\textcolor{green}{Test\ Monitoring,\ Test\ Control\ and\ Test\ Completion\ :}$ 
 
-4. $\textcolor{green}{Configuration\ Management\ :}$ Ensures that test artifacts, such as test cases and test data, are properly controlled and versioned. Configuration management practices help maintain the integrity of test environments and deliverables.
+4. $\textcolor{green}{Configuration\ Management\ :}$
 
-6. $\textcolor{green}{Risk\ and\ Testing\ :}$ Involves identifying and assessing risks that may impact the quality of the product. Test management uses risk-based testing to prioritize testing activities based on the likelihood and impact of potential defects.
+5. $\textcolor{green}{Defect\ Management\ :}$
 
-7. $\textcolor{green}{Incident\ Management\ :}$ Covers the process of recording, analyzing, and tracking defects or issues discovered during testing. Incident management ensures that all issues are properly documented and addressed.
 
 > [!IMPORTANT]
 > ### TOOL SUPPORT FOR TESTING
