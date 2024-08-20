@@ -145,14 +145,18 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  $\textcolor{green}{Enhanced\ Collaboration\ :}$ Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
 5. Differences between $\textcolor{green}{Static\ Testing}$ and $\textcolor{green}{Dynamic\ Testing}$ :
    
-|| Static Testing    | Dynamic Testing |
-|:---:|:---:|:---:|
-| Execution | Involves examining the work products (like code, documents) without executing the software. | Involves executing the software and observing its behavior during runtime to find defects. |
-| Focus | Focuses on detecting defects in work products, such as requirements, design, and code, before the product is run. | Focuses on finding defects related to functional and non-functional behavior of the software during execution. |
-| Timing | Typically performed early in the development process, often before any code is executed. | Occurs after the code is developed, often during or after the implementation phase. |
-| Tools | Relies on tools for static analysis (e.g., code analyzers, linters) and manual review processes. | Utilizes testing frameworks, test automation tools, and environments for executing the software under test. |
-| Defect Types | Detects defects such as coding standard violations, logical errors, missing requirements, and documentation issues. | Identifies runtime errors, performance issues, functional failures, and unexpected behaviors during software execution. |
+| Static Testing    | Dynamic Testing |
+|:---:|:---:|
+| Testing is performed without executing the program. | Testing is done by executing the program. |
+| Prevents bugs. | Finds and fixes bugs. |
+| Examines code and documentation. | Reports software bugs and bottlenecks. |
+| Includes a checklist and process to follow. |	Includes specific test cases to execute. |
+| Can be performed before code compilation. | Dynamic testing is done after compilation |
+| Low cost of finding and fixing bugs. | High cost of finding and fixing bugs |
+| The ROI is high as this process is involved in the early stages of development. | The ROI is low as this process runs in the post-development phase |
+| Requires many meetings. | Significantly fewer meetings required |
 
+- The **ROI** stand for **Return on Investment**.
 
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
