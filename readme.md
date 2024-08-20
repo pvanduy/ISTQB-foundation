@@ -53,19 +53,19 @@ This section includes practice questions to help you prepare for the ISTQB Found
 
 > [!IMPORTANT]
 > ### TESTING PRINCIPLES
-1. Testing Shows the Presence of Defects: Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
+1. $\textcolor{green}{Testing\ Shows\ the\ Presence\ of\ Defects\ :}$ Testing can show that defects are present, but it cannot prove that there are no defects. Even after thorough testing, some defects may remain.
 
-2. Exhaustive Testing is Impossible: It's impractical to test all possible inputs and conditions. Risk-based testing and prioritization help in focusing on the most critical areas.
+2. $\textcolor{green}{Exhaustive\ Testing\ is\ Impossible\ :}$  Exhaustive Testing is Impossible: It's impractical to test all possible inputs and conditions. Risk-based testing and prioritization help in focusing on the most critical areas.
 
-3. Early Testing: Testing activities should start as early as possible in the software development lifecycle to detect and fix defects early, reducing the cost and time involved.
+3. $\textcolor{green}{Early\ Testing\ :}$ Testing activities should start as early as possible in the software development lifecycle to detect and fix defects early, reducing the cost and time involved.
 
-4. Defect Clustering: A small number of modules usually contain most of the defects. Identifying and focusing on these areas can make testing more efficient.
+4. $\textcolor{green}{Defect\ Clustering\ :}$ A small number of modules usually contain most of the defects. Identifying and focusing on these areas can make testing more efficient.
 
-5. *Pesticide Paradox (Tests wear out)*: Repeating the same tests over time will no longer find new defects. To avoid this, test cases should be regularly reviewed and revised, and new tests should be designed.
+5. $\textcolor{green}{Pesticide\ Paradox\ (Tests\ wear\ out\) :}$ Repeating the same tests over time will no longer find new defects. To avoid this, test cases should be regularly reviewed and revised, and new tests should be designed.
 
-6. Testing is Context-Dependent: The effectiveness of testing methods varies depending on the context, such as the type of software, its criticality, and the development methodology used.
+6. $\textcolor{green}{Testing\ is\ Context-Dependent\ :}$ The effectiveness of testing methods varies depending on the context, such as the type of software, its criticality, and the development methodology used.
 
-7. Absence-of-Errors Fallacy: Just because a system is free of defects does not mean it is useful or meets the user’s needs. Testing should ensure that the software fulfills its intended purpose.
+7. $\textcolor{green}{Absence-of-Errors\ Fallacy\ :}$ Just because a system is free of defects does not mean it is useful or meets the user’s needs. Testing should ensure that the software fulfills its intended purpose.
 
 > [!IMPORTANT]
 > ### TESTING THROUGHOUT THE SOFTWARE LIFE CYCLE
@@ -130,19 +130,19 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  Static testing is a software testing technique that involves examining and analyzing software work products without executing the code. It aims to find errors, ambiguities, inconsistencies, and omissions early in the development process, making it a crucial component of quality assurance.
 
 2. Static Testing Basics:
-   -  **Techniques**: Static testing primarily includes reviews (such as inspections, walkthroughs, and technical reviews) and static analysis. These techniques are applied to various documents and code artifacts to identify defects early.
-   -  **Process**: The static testing process typically involves planning, preparation, review meetings, defect recording, and follow-up. The review process is systematic, often guided by checklists to ensure thorough coverage.
+   -  $\textcolor{green}{Techniques\ :}$ Static testing primarily includes reviews (such as inspections, walkthroughs, and technical reviews) and static analysis. These techniques are applied to various documents and code artifacts to identify defects early.
+   -  $\textcolor{green}{Process\ :}$ The static testing process typically involves planning, preparation, review meetings, defect recording, and follow-up. The review process is systematic, often guided by checklists to ensure thorough coverage.
 3. Work Products Examinable by Static Testing:
    -  $\textcolor{green}{Requirements\ Specifications\ :}$ Static testing can identify ambiguities, contradictions, and omissions in requirements documents.
-   -  **Design Documents**: Reviews of design documents help ensure that the design meets the requirements and adheres to best practices.
-   -  **Source Code**: Static analysis tools can be used to examine source code for coding standards compliance, security vulnerabilities, and potential bugs.
-   -  **Test Plans and Test Cases**: Reviewing test plans and test cases ensures that they are complete, accurate, and aligned with the requirements and design.
-   -  **User Manuals and Other Documentation**: Static testing can also be applied to user manuals and other documentation to check for accuracy, clarity, and consistency.
+   -  $\textcolor{green}{Design\ Documents\ :}$ Reviews of design documents help ensure that the design meets the requirements and adheres to best practices.
+   -  $\textcolor{green}{Source\ Code\ :}$ Static analysis tools can be used to examine source code for coding standards compliance, security vulnerabilities, and potential bugs.
+   -  $\textcolor{green}{Test\ Plans\ and\ Test\ Cases\ :}$  Reviewing test plans and test cases ensures that they are complete, accurate, and aligned with the requirements and design.
+   -  $\textcolor{green}{User\ Manuals\ and\ Other\ Documentation\ :}$ Static testing can also be applied to user manuals and other documentation to check for accuracy, clarity, and consistency.
 4. Value of Static Testing:
-   -  **Early Defect Detection**: By identifying defects before code execution, static testing helps prevent defects from propagating into later stages, where they are more costly to fix.
-   -  **Cost-Effective**: Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
-   -  **Improved Quality**: Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
-   -  **Enhanced Collaboration**: Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
+   -  $\textcolor{green}{Early\ Defect\ Detection\ :}$ By identifying defects before code execution, static testing helps prevent defects from propagating into later stages, where they are more costly to fix.
+   -  $\textcolor{green}{Cost-Effective\ :}$ Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
+   -  $\textcolor{green}{Improved\ Quality\ :}$ Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
+   -  $\textcolor{green}{Enhanced\ Collaboration\ :}$ Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
 5. Differences between Static Testing and Dynamic Testing:
    -  Execution:
       -  Static Testing: Involves examining the work products (like code, documents) without executing the software.
@@ -163,71 +163,71 @@ This section includes practice questions to help you prepare for the ISTQB Found
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
 1. Test Techniques Overview:
-   -  Test design techniques are broadly categorized into three main types:
+   -  $\textcolor{green}{Test\ design\ techniques\ are\ broadly\ categorized\ into\ three\ main\ types\ :}$
       -  Black-box Techniques: Focus on testing the external behavior of the software without knowledge of its internal structure.
       -  White-box Techniques: Involve testing the internal structures or workings of the software, such as code and logic paths.
       -  Experience-based Techniques: Rely on the tester’s experience, intuition, and knowledge of similar applications or defects.
 2. Black-box Test Design Techniques:
 These techniques are based on the functional requirements and specifications of the software. They do not require knowledge of the internal code.
 
-   -  Equivalence Partitioning (EP):
+   -  $\textcolor{green}{Equivalence\ Partitioning\ (EP)\ :}$
       -  Definition: Divides input data into equivalent partitions that are expected to behave similarly. Test cases are designed to cover one value from each partition, reducing the total number of test cases while maintaining coverage.
       -  Application: Helps in identifying classes of inputs that should be treated the same by the system, ensuring that each partition is tested at least once.
 
-   -  Boundary Value Analysis (BVA):
+   -  $\textcolor{green}{Boundary\ Value\ Analysis\ (BVA)\:}$
       -  Definition: Focuses on the boundaries between equivalence partitions. Since errors often occur at the boundaries of input ranges, this technique tests values at, just below, and just above these boundaries.
       -  Application: Often used in conjunction with equivalence partitioning, especially in systems that handle ranges of inputs.
 
-   -  Decision Table Testing:
+   -  $\textcolor{green}{Decision\ Table\ Testing\ :}$
       -  Definition: Uses a table format to represent combinations of inputs and their corresponding outputs or actions. Each row of the table represents a unique combination of conditions (inputs) and the expected outcome (output).
       -  Application: Effective for testing complex business logic and systems with multiple input conditions.
 
-   -  State Transition Testing:
+   -  $\textcolor{green}{State\ Transition\ Testing\ :}$
       -  Definition: Involves creating test cases based on the states the system can be in and the transitions between those states. It tests how the system behaves in each state and how it transitions from one state to another.
       -  Application: Useful for systems where the behavior depends on the sequence of events, such as workflows, user interfaces, and state-driven systems.
 
 3. White-box Test Design Techniques:
 These techniques are based on the internal workings of the system, requiring knowledge of the code and logic.
 
-   -  Statement Testing and Coverage:
+   -  $\textcolor{green}{Statement\ Testing\ and\ Coverage\ :}$
       -  Definition: Involves designing test cases to execute individual statements in the code at least once. The goal is to achieve 100% statement coverage.
       -  Application: Ensures that every line of code is tested, though it may not reveal all types of defects, especially those related to the control flow.
 
-   -  Decision Testing and Coverage:
+   -  $\textcolor{green}{Decision\ Testing\ and\ Coverage\ :}$
       -  Definition: Focuses on testing decision points in the code, such as if-else conditions. Test cases are designed to cover all possible outcomes of each decision point.
       -  Application: Provides more thorough coverage than statement testing by ensuring that all branches of the decision points are tested.
 
-   -  Other White-box Techniques:
+   -  $\textcolor{green}{Other\ White-box\ Techniques\ :}$
       -  Condition Coverage: Ensures that each condition in a decision statement is tested with both true and false outcomes.
       -  Multiple Condition Coverage: Tests all possible combinations of conditions in decision statements.
 
 4. Experience-based Test Design Techniques:
 These techniques rely on the tester’s experience, knowledge of similar applications, and understanding of where defects are likely to occur.
 
-   -  Error Guessing:
+   -  $\textcolor{green}{Error\ Guessing\ :}$
       -  Definition: Involves designing test cases based on the tester’s intuition, experience, and knowledge of typical errors. The tester anticipates where defects might occur and creates test cases to target those areas.
       -  Application: Useful for identifying defects that may not be covered by systematic test design techniques.
-   -  Exploratory Testing:
+   -  $\textcolor{green}{Exploratory\ Testing\ :}$
       -  Definition: A hands-on approach where testers actively explore the application without predefined test cases, simultaneously learning about the system and designing new tests.
       -  Application: Effective in situations where requirements are incomplete, changing, or when the tester needs to investigate a specific area of the application more deeply.
 
 5. Collaboration-based Test Approaches:
 Collaboration-based test approaches involve close cooperation between various stakeholders—such as developers, testers, product owners, and business analysts—to ensure that the product meets the desired quality and functionality. These approaches emphasize shared understanding, clear communication, and joint responsibility for defining and verifying the product’s requirements and behavior.
 
-   -  Collaborative User Story Writing:
+   -  $\textcolor{green}{Collaborative\ User\ Story\ Writing\ :}$
       -  Definition: Collaborative user story writing is a practice where stakeholders work together to create user stories that clearly define the features and functionality of the software from the end-user’s perspective. User stories are simple, concise descriptions of a feature or function that the user needs.
       -  Process:
          -  Involvement: Typically involves the product owner, developers, testers, and sometimes even end-users, all working together to ensure that the user stories accurately reflect the user’s needs and the technical feasibility.
          -  Workshops: Collaborative workshops, often referred to as "story writing workshops," are commonly used to brainstorm, discuss, and refine user stories. These workshops foster a shared understanding of what is to be built and help identify potential issues early in the development process.
          -  Outcomes: The goal is to produce clear, concise, and testable user stories that are understood by everyone involved. This clarity helps in aligning the team’s efforts and ensures that everyone is working towards the same goals.
-   -  Acceptance Criteria:
+   -  $\textcolor{green}{Acceptance\ Criteria\ :}$
       -  Definition: Acceptance criteria are the conditions that a software product must satisfy to be accepted by the user, customer, or other stakeholders. They are typically defined for each user story and describe what needs to be done for the feature to be considered complete and functioning as expected.
       -  Role in Development:
          -  Clarity: Acceptance criteria provide a clear definition of what is expected, reducing ambiguity and helping ensure that the development meets the user’s needs.
          -  Basis for Testing: They serve as the basis for acceptance tests, which are designed to verify that the software meets the specified criteria.
          -  Communication: Acceptance criteria are written in collaboration with all stakeholders, ensuring that everyone has the same understanding of the requirements and expectations.
          -  Format: Acceptance criteria can be written in different formats, such as "Given-When-Then" statements, which outline the preconditions, the action taken, and the expected outcome.
-   -  Acceptance Test-driven Development (ATDD):
+   -  $\textcolor{green}{Acceptance\ Test-driven Development\ (ATDD)\ :}$
       -  Definition: Acceptance Test-driven Development (ATDD) is a collaborative approach where acceptance tests are defined before the actual development begins. These tests are written based on the acceptance criteria and are used to guide the development process.
       -  Process:
          -  Test First: ATDD follows a "test-first" approach, where the team collaborates to write acceptance tests before any coding is done. These tests are designed to verify that the software meets the acceptance criteria.
@@ -240,21 +240,21 @@ Collaboration-based test approaches involve close cooperation between various st
 
 > [!IMPORTANT]
 > ### TEST MANAGEMENT
-1. Test Organization: Discusses roles and responsibilities in a test team, including the Test Manager and Tester roles. It covers how these roles contribute to planning, executing, and evaluating test activities.
+1. $\textcolor{green}{Test\ Organization\ :}$ Discusses roles and responsibilities in a test team, including the Test Manager and Tester roles. It covers how these roles contribute to planning, executing, and evaluating test activities.
 
-2. Test Planning and Estimation: Involves creating a test plan that outlines the scope, approach, resources, and schedule for testing activities. Estimation techniques, such as expert-based estimation and metrics-based estimation, are used to predict the effort and resources required.
+2. $\textcolor{green}{Test\ Planning\ and\ Estimation\ :}$ Involves creating a test plan that outlines the scope, approach, resources, and schedule for testing activities. Estimation techniques, such as expert-based estimation and metrics-based estimation, are used to predict the effort and resources required.
 
-3. Test Monitoring and Control: Focuses on tracking the progress of test activities against the test plan. Key metrics and reporting methods are used to monitor progress, while control actions are taken if the project deviates from the plan.
+3. $\textcolor{green}{Test\ Monitoring\ and\ Control\ :}$ Focuses on tracking the progress of test activities against the test plan. Key metrics and reporting methods are used to monitor progress, while control actions are taken if the project deviates from the plan.
 
-4. Configuration Management: Ensures that test artifacts, such as test cases and test data, are properly controlled and versioned. Configuration management practices help maintain the integrity of test environments and deliverables.
+4. $\textcolor{green}{Configuration\ Management\ :}$ Ensures that test artifacts, such as test cases and test data, are properly controlled and versioned. Configuration management practices help maintain the integrity of test environments and deliverables.
 
-5. Risk and Testing: Involves identifying and assessing risks that may impact the quality of the product. Test management uses risk-based testing to prioritize testing activities based on the likelihood and impact of potential defects.
+6. $\textcolor{green}{Risk\ and\ Testing\ :}$ Involves identifying and assessing risks that may impact the quality of the product. Test management uses risk-based testing to prioritize testing activities based on the likelihood and impact of potential defects.
 
-6. Incident Management: Covers the process of recording, analyzing, and tracking defects or issues discovered during testing. Incident management ensures that all issues are properly documented and addressed.
+7. $\textcolor{green}{Incident\ Management\ :}$ Covers the process of recording, analyzing, and tracking defects or issues discovered during testing. Incident management ensures that all issues are properly documented and addressed.
 
 > [!IMPORTANT]
 > ### TOOL SUPPORT FOR TESTING
--   Test tools are software applications used to support various testing activities. They can be categorized into several types:
+-   $\textcolor{green}{Test\ tools\ are\ software\ applications\ used\ to\ support\ various\ testing\ activitie.\ They\ can\ be\ categorized\ into\ several\ types\ :}$
    1. Test Management Tools: Manage test cases, test execution, and defect tracking. Examples include:
       -  JIRA: Used for issue tracking and test management.
       -  TestRail: Provides test case management and reporting
@@ -271,7 +271,7 @@ Collaboration-based test approaches involve close cooperation between various st
    8. Tools supporting scalability and deployment standardization (e.g., virtual machines, containerization tools)
    9. Any other tool that assists in testing (e.g., a spreadsheet is a test tool in the context of testing)
 
--  Benefits of Test Automation:
+-  $\textcolor{green}{Benefits\ of\ Test\ Automation\ :}$
    -  Time saved by reducing repetitive manual work (e.g., execute regression tests, re-enter the same test data, compare expected results vs actual results, and check against coding standards)
    -  Prevention of simple human errors through greater consistency and repeatability (e.g., tests are consistently derived from requirements, test data is created in a systematic manner, and tests are executed by a tool in the same order with the same frequency)
    -  More objective assessment (e.g., coverage) and providing measures that are too complicated for humans to derive
@@ -279,7 +279,7 @@ Collaboration-based test approaches involve close cooperation between various st
    -  Reduced test execution times to provide earlier defect detection, faster feedback and faster time to market
    -  More time for testers to design new, deeper and more effective tests
 
--  Risks of Test Automation:
+-  $\textcolor{green}{Risks\ of\ Test\ Automation\ :}$
    -  Unrealistic expectations about the benefits of a tool (including functionality and ease of use).
    -  Inaccurate estimations of time, costs, effort required to introduce a tool, maintain test scripts and change the existing manual test process.
    -  Using a test tool when manual testing is more appropriate.
