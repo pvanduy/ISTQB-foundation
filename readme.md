@@ -1,18 +1,18 @@
 # ISTQB Foundation Study Guide
 This repository is dedicated to learning and preparing for the ISTQB (International Software Testing Qualifications Board) Foundation Level exam. It contains study materials, notes, and practice questions to help you gain a solid understanding of software testing principles.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [What is ISTQB Foundation?](#what-is-istqb-foundation)
-- [Study Plan](#study-plan)
-- [Resources](#resources)
-- [Practice Questions](#practice-questions)
-- [Contributing](#contributing)
+## 📅 Table of Contents
+- [Introduction](#-introduction)
+- [What is ISTQB Foundation?](#-what-is-istqb-foundation)
+- [Study Plan](#-study-plan)
+- [Resources](#-resources)
+- [Practice Questions](#-practice-questions)
+- [Contributing](#-contributing)
 
-## Introduction
+## 📚 Introduction
 The ISTQB Foundation Level certification is the first step in the ISTQB Certified Tester scheme. This certification is ideal for anyone involved in software testing, including testers, test analysts, test engineers, and developers.
 
-## What is ISTQB Foundation?
+## 📚 What is ISTQB Foundation?
 The ISTQB Foundation Level covers the fundamentals of software testing, including:
 - [Testing principles](#testing-principles): Basic concepts and principles that guide testing activities.
 - [Testing throughout the software life cycle](#testing-throughout-the-software-life-cycle): Understanding how testing fits into different phases of the software development life cycle.
@@ -21,7 +21,7 @@ The ISTQB Foundation Level covers the fundamentals of software testing, includin
 - [Test management](#test-management): Concepts related to managing and planning testing activities.
 - [Tool support for testing](#tool-support-for-testing): An overview of tools that can be used to support testing activities.
 
-## Study Plan
+## 📚 Study Plan
 To prepare for the ISTQB Foundation exam, follow this study plan:
 
 1. $\textcolor{lightgreen}{Understand\ the\ syllabus:}$ Review the ISTQB Foundation Level syllabus to get an overview of the topics covered in the exam.
@@ -30,14 +30,14 @@ To prepare for the ISTQB Foundation exam, follow this study plan:
 4. $\textcolor{lightgreen}{Practice\ questions:}$ Test your knowledge with practice questions after studying each topic.
 5. $\textcolor{lightgreen}{Review\ and\ revise:}$ Regularly review your notes and revise the topics as needed.
 
-## Resources
+## 📚 Resources
 Here are some useful resources to help you study for the ISTQB Foundation Level exam:
 
 - [ISTQB Official Website](https://www.istqb.org/)
 - [ISTQB Foundation Level Syllabus](https://www.istqb.org/certification-path-root/foundation-level.html)
 - [Practice Exams](https://istqb.patshala.com/tests/)
 
-## Practice Questions
+## 📚 Practice Questions
 This section includes practice questions to help you prepare for the ISTQB Foundation exam. These questions are based on the syllabus and cover various topics.
 
 1. **Question 1**: What is the main objective of software testing?
@@ -286,5 +286,5 @@ Collaboration-based test approaches involve close cooperation between various st
    -  The automation tool is not compatible with the development platform.
    -  Choosing an unsuitable tool that did not comply with the regulatory requirements and/or safety standards.
 
-## Contributing
+## 📚 Contributing
 Contributions are welcome! If you have additional resources, practice questions, or suggestions, feel free to submit a pull request.
