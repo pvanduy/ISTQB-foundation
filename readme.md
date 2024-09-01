@@ -9,7 +9,7 @@ This repository is dedicated to learning and preparing for the ISTQB (Internatio
 - [Practice Questions](#-practice-questions)
 - [Contributing](#-contributing)
 
-## Learning Schedule
+## Learning process
 ### Week 1: Introduction to ISTQB Foundation
 - [x] Understand the ISTQB certification levels.
 - [ ] Review basic software testing concepts.
