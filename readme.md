@@ -9,6 +9,38 @@ This repository is dedicated to learning and preparing for the ISTQB (Internatio
 - [Practice Questions](#-practice-questions)
 - [Contributing](#-contributing)
 
+## Learning Schedule
+### Week 1: Introduction to ISTQB Foundation
+- [x] Understand the ISTQB certification levels.
+- [ ] Review basic software testing concepts.
+- [ ] Study the ISTQB Foundation syllabus to understand the exam structure and key topics.
+      
+### Week 2: Testing Fundamentals
+- [ ] Learn the principles of software testing.
+- [ ] Study the Software Development Life Cycle (SDLC) and its relation to testing.
+- [ ] Review and complete exercises on Testing Fundamentals.
+
+### Week 3: Testing Throughout the Software Life Cycle
+- [ ] Explore different testing levels (Unit, Integration, System, Acceptance).
+- [ ] Understand software development models (Waterfall, Agile, V-Model).
+- [ ] Review and complete exercises on Testing Throughout the Software Life Cycle.
+
+### Week 4: Static Techniques and Test Design Techniques
+- [ ] Study Static Testing techniques and their importance.
+- [ ] Learn about Test Design Techniques (Black-box, White-box, Experience-based).
+- [ ] Practice test case design and review relevant exercises.
+
+### Week 5: Test Management and Tool Support for Testing
+- [ ] Understand Test Management (Test Planning, Monitoring, Control).
+- [ ] Study Test Tools and automation support.
+- [ ] Complete practice exercises and mock tests.
+
+### Week 6: Review and Exam Preparation
+- [ ] Consolidate all learned concepts and identify areas for improvement.
+- [ ] Take mock exams and review incorrect answers to strengthen knowledge.
+- [ ] Light review and mental preparation for the exam.
+ 
+
 ## 📚 Introduction
 The ISTQB Foundation Level certification is the first step in the ISTQB Certified Tester scheme. This certification is ideal for anyone involved in software testing, including testers, test analysts, test engineers, and developers.
 
