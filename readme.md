@@ -12,22 +12,22 @@ This repository is dedicated to learning and preparing for the ISTQB (Internatio
 ## Learning process
 ### Week 1: Introduction to ISTQB Foundation
 - [x] Understand the ISTQB certification levels.
-- [ ] Review basic software testing concepts.
-- [ ] Study the ISTQB Foundation syllabus to understand the exam structure and key topics.
+- [x] Review basic software testing concepts.
+- [x] Study the ISTQB Foundation syllabus to understand the exam structure and key topics.
       
 ### Week 2: Testing Fundamentals
-- [ ] Learn the principles of software testing.
-- [ ] Study the Software Development Life Cycle (SDLC) and its relation to testing.
+- [x] Learn the principles of software testing.
+- [x] Study the Software Development Life Cycle (SDLC) and its relation to testing.
 - [ ] Review and complete exercises on Testing Fundamentals.
 
 ### Week 3: Testing Throughout the Software Life Cycle
 - [ ] Explore different testing levels (Unit, Integration, System, Acceptance).
-- [ ] Understand software development models (Waterfall, Agile, V-Model).
+- [x] Understand software development models (Waterfall, Agile, V-Model).
 - [ ] Review and complete exercises on Testing Throughout the Software Life Cycle.
 
 ### Week 4: Static Techniques and Test Design Techniques
-- [ ] Study Static Testing techniques and their importance.
-- [ ] Learn about Test Design Techniques (Black-box, White-box, Experience-based).
+- [x] Study Static Testing techniques and their importance.
+- [x] Learn about Test Design Techniques (Black-box, White-box, Experience-based).
 - [ ] Practice test case design and review relevant exercises.
 
 ### Week 5: Test Management and Tool Support for Testing
@@ -133,21 +133,21 @@ This section includes practice questions to help you prepare for the ISTQB Found
       -  Focuses on testing the changes made during maintenance, ensuring that new defects are not introduced and that the software continues to meet user needs.
 
 5. Test Activities:
-   -  Test Planning:
+   -  $\textcolor{green}{Test\ Planning\ :}$
       -  Involves defining the scope, approach, resources, and schedule for testing activities. Test planning starts early in the project to ensure that testing objectives align with project goals.
-   -  Test Monitoring and Control:
+   -  $\textcolor{green}{Test\ Monitoring\ and\ Control\ :}$
       -  Tracking the progress of test activities against the plan, making adjustments as necessary, and ensuring that testing stays on track.
-   -  Test Analysis:
+   -  $\textcolor{green}{Test\ Analysis\ :}$
       -  Identifying test conditions based on requirements, architecture, or design documents. This is where testers determine what to test.
-   -  Test Design:
+   -  $\textcolor{green}{Test\ Design\ :}$
       -  Designing test cases, test data, and test environments to cover identified test conditions.
-   -  Test Implementation:
+   -  $\textcolor{green}{Test\ Implementation\ :}$
       -  Preparing the necessary test scripts, creating the test environment, and arranging the test data.
-   -  Test Execution:
+   -  $\textcolor{green}{Test\ Execution\ :}$
       -  Running the test cases, logging the outcomes, and reporting any defects found.
-   -  Evaluating Exit Criteria and Reporting:
+   -  $\textcolor{green}{Evaluating\ Exit\ Criteria\ and\ Reporting\ :}$
       -  Reviewing test results to ensure that the exit criteria are met, determining whether additional testing is needed, and making decisions about the release.
-   -  Test Closure:
+   -  $\textcolor{green}{Test\ Closure\ :}$
       -  Finalizing and archiving testware, documenting lessons learned, and evaluating the test process for future improvement.
 
 6. Test-Driven Development (TDD) and Continuous Testing:
@@ -175,20 +175,6 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  $\textcolor{green}{Cost-Effective\ :}$ Since defects found during static testing are often easier and cheaper to fix than those found during dynamic testing or after deployment, static testing contributes to overall cost reduction in the project.
    -  $\textcolor{green}{Improved\ Quality\ :}$ Regular application of static testing helps improve the quality of work products, leading to a more reliable and maintainable final product.
    -  $\textcolor{green}{Enhanced\ Collaboration\ :}$ Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
-5. Differences between $\textcolor{green}{Static\ Testing}$ and $\textcolor{green}{Dynamic\ Testing}$ :
-   
-| Static Testing    | Dynamic Testing |
-|:---:|:---:|
-| Testing is performed without executing the program. | Testing is done by executing the program. |
-| Prevents bugs. | Finds and fixes bugs. |
-| Examines code and documentation. | Reports software bugs and bottlenecks. |
-| Includes a checklist and process to follow. |	Includes specific test cases to execute. |
-| Can be performed before code compilation. | Dynamic testing is done after compilation |
-| Low cost of finding and fixing bugs. | High cost of finding and fixing bugs |
-| The ROI is high as this process is involved in the early stages of development. | The ROI is low as this process runs in the post-development phase |
-| Requires many meetings. | Significantly fewer meetings required |
-
-- The **ROI** stand for **Return on Investment**.
 
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
