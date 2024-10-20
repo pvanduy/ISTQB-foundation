@@ -177,6 +177,24 @@ This section includes practice questions to help you prepare for the ISTQB Found
    -  $\textcolor{green}{Enhanced\ Collaboration\ :}$ Reviews involve multiple stakeholders, fostering communication and collaboration among team members, which improves the overall development process.
 
 > [!IMPORTANT]
+> ### DYNAMIC TECHNIQUES
+1. Equivalence Partitioning Testing:
+      - Equivalence partitioning is a black-box testing technique that applies to all levels of testing
+      - Example: Input: `18<= age <= 60`
+        - TC1: valid value is `in range 18 to 60 (e.g: 30)`
+        - TC2: invalid value is `out of range 18 to 60 (e.g: 17)`
+        - TC3: invalid value is `out of range 18 to 60 (e.g: 61)`
+2. Boundary Value Analysis Testing:
+      - Example: Input `18 <= age <= 60`
+        - TC1: valid boundary lowest is 18
+        - TC2: valid boundary highest is 60
+        - TC3: invalid boundary lowest is 17
+        - TC4 invalid boundary highest is 61
+3. Decision Table Testing
+      - Example: Input username/password
+  
+
+> [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
 1. Test Techniques Overview:
    -  $\textcolor{green}{Test\ design\ techniques\ are\ broadly\ categorized\ into\ three\ main\ types\ :}$
