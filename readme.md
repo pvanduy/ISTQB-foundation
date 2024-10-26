@@ -192,7 +192,14 @@ This section includes practice questions to help you prepare for the ISTQB Found
         - TC4 invalid boundary highest is 61
 3. Decision Table Testing
       - Example: Input username/password
-  
+
+| Username | Password | Login Times | Lock Account | Result         |
+|----------|----------|-------------|--------------|----------------|
+| True     | True     | 0           | No           | Sucessful      |
+| True     | False    | 1           | No           | Unsucessful    |
+| False    | False    | 2           | No           | Unsucessful    |
+| True     | False    | 3           | Yes          | Locked Account |
+
 
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
