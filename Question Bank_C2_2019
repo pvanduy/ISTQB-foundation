@@ -1,0 +1,296 @@
+1.	Which of the following is a true statement regarding the V-model lifecycle?
+  A.	The software is built in increments and each increment has activities for requirements, design, build and test
+  B.	The test process is integrated with the development process
+  C.	All activities for development and test are completed sequentially
+  D.	Testing involvement starts when the code is complete
+
+2.	Which of these is a functional test?
+  A.	Measuring response time on an on-line booking system.
+  B.	Checking how easy the system is to use
+  C.	Checking the on-line bookings screen information and the database contents against the information on the letter to the customers
+  D.	Checking the effect of high volumes of traffic in a call-center system
+
+3.	Consider the following statements about regression tests:
+I They may usefully be automated if they are well designed.
+II	They are the same as confirmation tests (re-tests).
+III	They are a way to reduce the risk of a change having an adverse affect elsewhere in the system.
+IV	They are only effective if automated. Which pair of statements is true?
+  A.	I and II
+  B.	I and III
+  C.	II and III
+  D.	II and IV
+
+4.	Which of the following is a characteristic of a well-managed test level?
+  A.	It has a corresponding test objective
+  B.	AIt does not overlap with another test level
+  C.	It applies a single test design technique
+  D.	It has a target duration of one month
+
+5.	When should the testers start reviewing project documents?
+  A.	When they have been baselined and approved
+  B.	As soon as a draft is available
+  C.	When the developers have started coding
+  D.	After the first revision
+
+
+6.	Which testing level is primarily focused on building confidence rather than finding defects?
+  A.	System Testing
+  B.	Acceptance Testing
+  C.	Integration Testing
+  D.	Unit Testing
+
+7.	You have been receiving daily builds from the developers. Even though they are documenting the fixes they are including in each build, you are finding that the fixes
+either aren’t in the build or are not working. What type of testing is best suited for finding these issues?
+  A.	Regression Testing
+  B.	System Testing
+  C.	Unit Testing
+  D.	Confirmation Testing
+
+8.	Which of the following is the correct list of the triggers for maintenance testing?
+  A.	A fix has been received for a product that is in development
+  B.	A new requirement has been received for the software that is currently under test that may result in an architectural change
+  C.	regression has been discovered in a set of fixes just received from the developer
+  D.	A component in production is modified, migrated or retired
+
+9.	Which of the following is most correct regarding when non-functional tests may be executed?
+  A.	All Levels
+  B.	System & Acceptance
+  C.	Unit & Integration
+  D.	Integration & System
+
+10.	Which of the following statements are TRUE?
+A.	Regression Testing & Acceptance Testing are the same 
+B.Regression tests show if all defects have been resolved 
+C.Regression tests are typically well-suited for test automation
+D.Regression Tests are performed to find out if code changes have introduced or uncovered defects
+  
+  A.	C & D are true; A & B are false
+  B.	A, C, & D are true; B is false
+  C.	A & C are true; B & D are false
+  D.	B is true; A, C, & D are false
+
+11.	Contract & Regulation testing is a part of?
+  A.	Integration Testing
+  B.	System Testing
+  C.	Functional Testing
+  D.	Acceptance Testing
+ 
+12.	What is important to do when working with software development models?
+  A.	To only change the organization to fit the model and not vice versa
+  B.	To start with the V-model and then move to either iterative or incremental models
+  C.	To adapt the models to the context of project and product characteristics
+  D.	To choose the waterfall model because it is the first and best proven model
+
+13.	Which of the following is a trigger for maintenance testing?
+  A.	A component of an existing production software product has been removed
+  B.	A new software product is being developed and defects have been found in unit testing
+  C.	A new software product is being developed and will work across multiple platforms
+  D.	A component of an existing production software product has received high usage
+
+14.	Consider the following statements about maintenance testing
+I It requires both re-test and regression test and may require additional new tests.
+II	It is testing to show how easy it will be to maintain the system.
+III	It is difficult to scope and therefore needs careful risk and impact analysis.
+IV	It need not be done for emergency bug fixes.
+
+Which of the statements are true?
+  A.	II and III
+  B.	I and III
+  C.	II and IV
+  D.	I and IV
+
+15.	In which test level are the developers most heavily involved?
+  A.	Conversion
+  B.	Compatibility
+  C.	Acceptance
+  D.	Component
+
+16.	Which of the following comparisons of component testing and system testing is true?
+  A.	Component testing is the responsibility of the technical testers, whereas system testing typically is the responsibility of the users of the system
+  B.	Component testing verifies the functioning of software modules, program objects, and classes that are separately testable, whereas system testing verifies interfaces between components and interactions with different parts of the system
+  C.	Test cases for component testing are usually derived from component specifications, design specifications, or data models, whereas test cases for system testing are usually derived from requirement specifications, functional specifications or use cases
+  D.	Component testing focuses on functional characteristics, whereas system testing focuses on functional and non-functional characteristics
+ 
+17.	Which iterative model consists of relatively short iterations (e.g., few weeks) and produces small features increments?
+  A.	Rational Unified Process
+  B.	Rapid prototyping
+  C.	Scrum
+  D.	Kanban
+
+18.	Repeated Testing of an already tested program, after modification, to discover any defects introduced or uncovered as a result of the changes in the software being tested or in another related or unrelated software component
+  A.	Confirmation Testing
+  B.	Regression Testing
+  C.	Negative Testing
+  D.	Retesting
+
+19.	For which of the following would maintenance testing be used?
+  A.	Complaints about system quality during user acceptance testing
+  B.	Correction of defects during the development phase
+  C.	Planned enhancements to an existing operational system
+  D.	Integrating functions during the development of a new system
+
+20.	Which of the following is an important characteristic of tests used for regression testing?
+  A.	They require significant maintenance effort for each release
+  B.	They focus on testing the intricate and difficult-to-test aspects of the software
+  C.	They are used for one release and are then discarded to keep the test set fresh
+  D.	They are reusable for multiple releases with little maintenance
+
+21.	Which of the following characteristics of good testing apply to any software development life cycle model?
+  A.	For every development activity there is a corresponding testing activity
+  B.	Testers are involved as soon as the first piece of code can be executed
+  C.	All test levels are planned and completed for each developed feature
+  D.	Acceptance testing is always the final test level to be applied
+
+22.	What is the purpose of performing regression testing when system maintenance activities have occurred?
+  A.	To identify any maintainability issues with the code
+  B.	To assess the scope of maintenance performed on the system
+  C.	To ensure no unauthorized changes have been applied to the system
+  D.	To ensure the overall system has not regressed
+
+23.	Which of the following is a true statement regarding the process of fixing emergency changes?
+  A.	Always run a full regression test of the whole system in case other parts of the system have been adversely affected 
+  B.	Retest the changed area and then use risk assessment to decide on a reasonable subset of the whole regression test to run in case other parts of the system have been adversely affected
+  C.	There is no time to test the change before it goes live, so only the best developers should do this work and should not involve testers as they slow down the process
+  D.	Only retest of the defect actually fixed
+
+24.	If you need to add system integration testing as a test level for a particular project, what testing level should it directly follow?
+  A.	Acceptance
+  B.	Component integration
+  C.	Component
+  D.	System
+
+25.	Beta testing is
+  A.	Performed by customers at their own site
+  B.	Useful to test software developed for a specific customer or user
+  C.	Performed by customers at the software developer's site
+  D.	Performed by an independent test team
+
+26.	Which of the following uses impact analysis the most?
+  A.	User Acceptance Testing
+  B.	Component Testing
+  C.	Non-functional System Testing
+  D.	Maintenance Testing
+
+27.	Which of these statements about functional testing is true?
+  A.	Functional testing is more powerful than static testing as you actually run the system and see what happens
+  B.	Structural testing is more important than functional testing as it addresses the code.
+  C.	Functional testing is useful throughout the life cycle and can be applied by business analysts, testers, developers and users
+  D.	Inspection is a form of functional testing
+
+28.	Which statement below BEST describes non-functional testing?
+  A.	Testing system attributes, such as usability, reliability or performance
+  B.	The process of testing an integrated system to verify that it meets specified requirements
+  C.	Testing without reference to the internal structure of a system
+  D.	The process of testing to determine the compliance of a system to coding standards
+
+29.	A regression test:
+  A.	Will check unchanged areas of the software to see if they have been affected
+  B.	Will check changed areas of the software to see if they have been affected
+  C.	Will always be automated
+  D.	Is only run once
+ 
+30.	Impact analysis helps to decide
+  A.	How many more test cases need to be written
+  B.	How much regression testing should be done
+  C.	Exit criteria
+  D.	Different tools to perform regression testing
+
+31.	Which of the following is most correct regarding when functional tests may be executed?
+  A.	All Levels
+  B.	Integration & System
+  C.	Unit & Integration
+  D.	System & Acceptance
+
+32.	Usability testing is an example of which type of testing?
+  A.	Non-functional
+  B.	Change-related
+  C.	Structural
+  D.	Functional
+
+33.	In general, This approaches to software development and testing put less emphasis on planning tasks and more emphasis on development and testing. In contrast to the waterfall model, which emphasizes rigorous specification and planning. This approaches emphasize the necessity of adjusting requirements in reaction to knowledge gained as the project progresses. What is this?
+  A.	Prototyping
+  B.	Rapid Application Development
+  C.	Rational Unified Process
+  D.	V-Model
+
+34.	Developer of market, of COTS software often want to get feedback from potential existing customer in their market before the software product is put up for sale commercially. This testing is performed at the developing organization's site but not by developing team. What is this testing?
+  A.	Alpha testing
+  B.	Beta testing
+  C.	User Acceptance Testing
+  D.	Operational Testing.
+ 
+35.	Which of following may NOT be included in Component testing?
+  A.	Testing of functionality
+  B.	Robustness testing
+  C.	Structural testing
+  D.	Operational testing
+
+36.	How can white-box testing be applied during acceptance testing?
+  A.	To check if large volumes of data can be transferred between integrated systems.
+  B.	To check if all code statements and code decision paths have been executed.
+  C.	To check if all work process flows have been covered.
+  D.	To cover all web page navigations.
+
+37.	Which of the following statements comparing component testing and system testing is TRUE?
+  A.	Component testing verifies the functionality of software modules, program objects, and classes that are separately testable, whereas system testing verifies interfaces between components and interactions between different parts of the system.
+  B.	Test cases for component testing are usually derived from component specifications, design specifications, or data models, whereas test cases for system testing are usually derived from requirement specifications or use cases.
+  C.	Component testing only focuses on functional characteristics, whereas system testing focuses on functional and non-functional characteristics.
+  D.	Component testing is the responsibility of the testers, whereas system testing typically is the responsibility of the users of the system.
+
+38.	Which one of the following is TRUE?
+  A.	The purpose of regression testing is to check if the correction has been successfully implemented, while the purpose of confirmation testing is to confirm that the correction has
+  no side effects.
+  B.	The purpose of regression testing is to detect unintended side effects, while the purpose of confirmation testing is to check if the system is still working in a new environment.
+  C.	The purpose of regression testing is to detect unintended side effects, while the purpose of confirmation testing is to check if the original defect has been fixed.
+  D.	The purpose of regression testing is to check if the new functionality is working, while the purpose of confirmation testing is to check if the original defect has been fixed
+ 
+39.	Which one of the following is the BEST definition of an incremental development model?
+  A.	Defining requirements, designing software and testing are done in phases where in each phase a piece of the system is added.
+  B.	A phase in the development process should begins when the previous phase is complete.
+  C.	Testing is viewed as a separate phase which takes place after development has been completed.
+  D.	Testing is added to development as an increment
+
+40.	Which of the following should NOT be a trigger for maintenance testing?
+  A.	Decision to test the maintainability of the software.
+  B.	Decision to test the system after migration to a new operating platform.
+  C.	Decision to test if archived data is possible to be retrieved.
+  D.	Decision to test after “hot fixes”.
+
+41.	Given the following statements about the relationships between software development activities and test activities in the software development lifecycle:
+1.	Each development activity should have a corresponding testing activity.
+2.	Reviewing should start as soon as final versions of documents become available.
+3.	The design and implementation of tests should start during the corresponding development.
+activity
+4.	Testing activities should start in the early stages of the software development lifecycle. Which of the following CORRECTLY shows which are true and false?
+  a)	True – 1, 2; False – 3, 4
+  b)	True – 2, 3; False – 1, 2
+  c)	True – 1, 2, 4; False – 3
+  d)	True – 1, 4; False – 2, 3
+
+42.	Given that the testing being performed has the following attributes:
+•	based on interface specifications;
+•	focused on finding failures in communication;
+•	the test approach uses both functional and structural test types. Which of the following test levels is MOST likely being performed?
+  a)	Component integration testing.
+  b)	Acceptance testing.
+  c)	System testing.
+  d)	Component testing
+ 
+43.	Which of the following statements about test types and test levels is CORRECT?
+  a)	Functional and non-functional testing can be performed at system and acceptance test levels, while white-box testing is restricted to component and integration testing.
+  b)	Functional testing can be performed at any test level, while white-box testing is restricted to component testing.
+  c)	It is possible to perform functional, non-functional and white-box testing at any test level.
+  d)	Functional and non-functional testing can be performed at any test level, while Whitebox testing is restricted to component and integration testing
+
+
+44.	Which of the following statements BEST compares the purposes of confirmation testing and regression testing?
+  a)	The purpose of regression testing is to ensure that all previously run tests still work correctly, while the purpose of confirmation testing is to ensure that any fixes made to one part of the system have not adversely affected other parts.
+  b)	The purpose of confirmation testing is to check that a previously found defect has been fixed, while the purpose of regression testing is to ensure that no other parts of the system have been adversely affected by the fix.
+  c)	The purpose of regression testing is to ensure that any changes to one part of the system have not caused another part to fail, while the purpose of confirmation testing is to check that all previously run tests still provide the same results as before.
+  d)	The purpose of confirmation testing is to confirm that changes to the system were made successfully, while the purpose of regression testing is to run tests that previously failed to ensure that they now work correctly
+
+45.	Which of the following statements CORRECTLY describes a role of impact analysis in Maintenance Testing?
+  a)	Impact analysis is used when deciding if a fix to a maintained system is worthwhile.
+  b)	Impact analysis is used to identify how data should be migrated into the maintained system.
+  c)	Impact analysis is used to decide which hot fixes are of most value to the user.
+  d)	Impact analysis is used to determine the effectiveness of new maintenance test cases
