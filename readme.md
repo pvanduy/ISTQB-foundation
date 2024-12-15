@@ -200,6 +200,17 @@ This section includes practice questions to help you prepare for the ISTQB Found
 | False    | False    | 2           | No           | Unsucessful    |
 | True     | False    | 3           | Yes          | Locked Account |
 
+4. State Transition Testing
+
+5. Experience Based Testing
+      - When should we use experience based technique?
+        - Requirements and specifications are not available.
+        - Requirements are inadequate.
+        - Limited knowledge of the software product.
+        - Time constraints to follow a structured approach.
+       
+6. Error Guessing
+   
 
 > [!IMPORTANT]
 > ### TEST DESIGN TECHNIQUES
